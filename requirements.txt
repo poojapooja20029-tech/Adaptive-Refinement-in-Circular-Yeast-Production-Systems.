@@ -1,0 +1,4 @@
+Django>=6.1,<7
+pandas>=2.2
+scikit-learn>=1.7
+joblib>=1.5
